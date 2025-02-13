@@ -1,0 +1,164 @@
+OPP300925OD661100              PAIE 9/2025SALAIRE DE BASE LOCALS      D53451000N                                 XAF
+OPP300925OD662100              PAIE 9/2025SALAIRE DE BASE EXPATRIES      D26370000N                                 XAF
+OPP300925OD663804              PAIE 9/2025SUR SALAIRES      D36000N                                 XAF
+OPP300925OD662202              PAIE 9/2025PRIME D'ANCIENNETES      D8186520N                                 XAF
+OPP300925OD663100              PAIE 9/2025INDEMNITE DE LOGEMENTS      D31928400N                                 XAF
+OPP300925OD661201              PAIE 9/2025PRIME DE RESPONSABILITES      D4600000N                                 XAF
+OPP300925OD663300              PAIE 9/2025INDEMNITE D'EXPATRIATIONS      D5274000N                                 XAF
+OPP300925OD663200              PAIE 9/2025PRIME REPRESENTATIONS      D1350000N                                 XAF
+OPP300925OD663830              PAIE 9/2025PRIME DE BUREAUS      D50000N                                 XAF
+OPP300925OD663810              PAIE 9/2025PRIME ASTREINTES      D120000N                                 XAF
+OPP300925OD663805              PAIE 9/2025PRIME DOMESTICITES      D600000N                                 XAF
+OPP300925OD663840              PAIE 9/202513 EME MOISS      D11432752N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C650000N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C63039484N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C7887264N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C6055920N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1635360N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C4890064N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C2797254N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C16215419N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C2700864N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C4961568N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C7703568N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C3319104N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1372368N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1917912N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C3206568N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C5120016N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C4748544N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C4228968N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C3206568N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1120992N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C3169056N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1259376N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1259376N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1259376N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1249104N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C1565760N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C895920N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C2799480N                                 XAF
+OPP300925OD422100X             PAIE 9/2025BRUT LOCALS      C2799480N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C8695104N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C5345208N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C4925976N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C4506408N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C2756280N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C4327272N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C1403184N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C1759440N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C3150120N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C3443880N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C4192920N                                 XAF
+OPP300925OD422200X             PAIE 9/2025BRUT EXPATRIES      C5586840N                                 XAF
+OPP300925OD662200              PAIE 9/2025PRIME MEDAILLE D'HONNEURS      D125000N                                 XAF
+OPP300925OD661400              PAIE 9/2025INDEMNITE DE PEAVIS LOCALS      D278286N                                 XAF
+OPP300925OD661400              PAIE 9/2025ABSENCE DU AU PREAVIS LOCS      C584400N                                 XAF
+OPP300925OD661400              PAIE 9/2025INDEMNITE LICENCIEMENT LOS      D41643611N                                 XAF
+OPP300925OD661400              PAIE 9/2025INDEMNITE FIN DE CARRIERES      D16031196N                                 XAF
+OPP300925OD663400              PAIE 9/2025INDEMNITES DE TRANSPORTS      D12235000N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D36900N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D8235316N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D1605467N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D1272460N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D216850N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D914210N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D473822N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D1418004N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D448694N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D1003816N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D1554126N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D601347N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D168904N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D275907N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D569895N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D1030244N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D944279N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D814149N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D569895N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D129344N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D559410N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D153471N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D153471N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D153471N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D151822N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D201108N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D99597N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D466992N                                 XAF
+OPP300925OD422100X             PAIE 9/2025COTISATIONS SALARIALES LOS      D466992N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D666887N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D426064N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D394992N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D363468N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D216987N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D347851N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D97331N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D130817N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D251982N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D275075N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D336139N                                 XAF
+OPP300925OD422200X             PAIE 9/2025COTISATIONS SALARIALES EXS      D445715N                                 XAF
+OPP300925OD447210              PAIE 9/2025IRPP ET CACS      C22724086N                                 XAF
+OPP300925OD447210              PAIE 9/2025RAVS      C1048450N                                 XAF
+OPP300925OD447210              PAIE 9/2025TDLS      C227750N                                 XAF
+OPP300925OD447210              PAIE 9/2025CFC SALARIALS      C1206602N                                 XAF
+OPP300925OD431300              PAIE 9/2025PVID SALARIALS      C3436383N                                 XAF
+OPP300925OD447220              PAIE 9/2025CFC PATRONALS      C3196915N                                 XAF
+OPP300925OD447230              PAIE 9/2025FNE PATRONALS      C2131278N                                 XAF
+OPP300925OD431300              PAIE 9/2025PVID PATRONALS      C3436383N                                 XAF
+OPP300925OD424200              PAIE 9/2025ALLOCATION FAMILIALES      C5727305N                                 XAF
+OPP300925OD431200              PAIE 9/2025ACCIDENT DE TRAVAILS      C2694599N                                 XAF
+OPP300925OD641301              PAIE 9/2025ETAT, CFS      D3196915N                                 XAF
+OPP300925OD641302              PAIE 9/2025ETAT, FNES      D2131278N                                 XAF
+OPP300925OD664010              PAIE 9/2025PENSION VEILLESSES      D3436383N                                 XAF
+OPP300925OD664020              PAIE 9/2025ALLOCATION FAMILLIALES      D5727305N                                 XAF
+OPP300925OD664030              PAIE 9/2025ACCIDENT DE TRAVAILS      D2694599N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D613100N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D54804168N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D6281797N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D4783460N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D1418510N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D3975854N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D2323432N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D14797415N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D2252170N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D3957752N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D6149442N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D2717757N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D1203464N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D1642005N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D2636673N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D4089772N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D3804265N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D3414819N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D2636673N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D991648N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D2609646N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D1105905N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D1105905N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D1105905N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D1097282N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D1364652N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D796323N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D2332488N                                 XAF
+OPP300925OD422100X             PAIE 9/2025SALAIRE NET LOCALS      D2332488N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D8028217N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D4919144N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D4530984N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D4142940N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D2539293N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D3979421N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D1305853N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D1628623N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D2898138N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D3168805N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D3856781N                                 XAF
+OPP300925OD422200X             PAIE 9/2025SALAIRE NET EXPATRIES      D5141125N                                 XAF
+OPP300925OD521100              PAIE 9/2025PAIEMENT SALAIRE BQ BICECS      C183958844N                                 XAF
+OPP300925OD421200              PAIE 9/2025AVANCES SUR SALAIRES      C525250N                                 XAF
+OPP300925OD521100              PAIE 9/2025PAIEMENT IMPOTSS      C30535081N                                 XAF
+OPP300925OD447210              PAIE 9/2025IMPOTSS      D30535081N                                 XAF
+OPP300925OD521100              PAIE 9/2025PAIEMENT CNPSS      C15294670N                                 XAF
+OPP300925OD431300              PAIE 9/2025PVIDS      D6872766N                                 XAF
+OPP300925OD431100              PAIE 9/2025ALLOCATION FAMILIALES      D5727305N                                 XAF
+OPP300925OD431200              PAIE 9/2025ACCIDENT DE TRAVAILS      D2694599N                                 XAF
