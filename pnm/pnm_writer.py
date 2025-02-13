@@ -104,10 +104,9 @@ class PNMWriter:
 
         :param entries: A list of dictionaries, each representing a PNM record.
         """
-        if self.stream.writable():
-            for entry in entries:
-                line = self.formatter.format_entry(entry) + "\n"
-                self.stream.write(line)
+        for entry in entries:
+            line = self.formatter.format_entry(entry) + "\n"
+            self.stream.write(line)
 
     def get_data(self) -> str:
         """
