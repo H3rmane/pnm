@@ -73,10 +73,15 @@ class PNMParserFactory:
         if len(lines) < 2:
             raise ValueError("Incomplete file: not enough lines to determine the format.")
 
-        sample_line = lines[1].rstrip("\n")  # Remove trailing newline characters
+        # Remove either Unix (\n) or Windows (\r\n) line endings without
+        # trimming spaces that may be part of the fixed-width record.
+        sample_line = lines[1].rstrip("\r\n")
         line_length = len(sample_line)
 
-        if line_length in cls._parsers:
-            return cls._parsers[line_length]()  # Instantiate the correct parser
-        else:
-            raise ValueError(f"Unknown format with a line length of {line_length} characters.")
+        parser_class = cls._parsers.get(line_length)
+        if parser_class is None:
+            raise ValueError(
+                f"Unknown format with a line length of {line_length} characters."
+            )
+
+        return parser_class()
