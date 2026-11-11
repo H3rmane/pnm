@@ -1,4 +1,4 @@
-# Copyright (c) 2025 Nzeunang Hermane <nzeunang@gmail.com>
+# Copyright (c) 2025 Nzeunang Hermane <hnzeunang@gmail.com>
 # 
 # This software is protected by copyright law. All rights reserved.
 # 
@@ -18,7 +18,7 @@
 #    tort, or otherwise, arising from, out of, or in connection with the Software or the
 #    use or other dealings in the Software.
 # 
-# For any inquiries, please contact: [nzeunang@gmail.com]
+# For any inquiries, please contact: [hnzeunang@gmail.com]
 
 
 
